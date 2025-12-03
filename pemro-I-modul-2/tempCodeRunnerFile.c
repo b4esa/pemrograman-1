@@ -1,1 +1,0 @@
-scanf("%lf %lf %lf %lf %lf %lf", &a, &b, &i, &j, &x, &y);
